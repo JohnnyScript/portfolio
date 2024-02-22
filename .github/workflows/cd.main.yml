@@ -1,4 +1,4 @@
-name: 🚀 Deploy to CloudFront
+name: 🚀 Deploy SST
 
 on:
   push:
@@ -16,6 +16,8 @@ jobs:
 
       - name: Config pnpm
         uses: pnpm/action-setup@v2
+        with:
+          version: 8
 
       - name: 📦 Instalación de dependencias
         run: pnpm install
