@@ -1,66 +1,45 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Johnny Pacheco",
+    "label": "Full Stack Developer with over 7 years of experience",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "johnnypachecodev@gmail.com",
+    "phone": "+573053401726",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "+15 years of experience as a Web Developer. Currently, I am a Content Creator and Programmer Advocate. I live in Barcelona, Spain. I have worked in different environments, from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "",
+      "city": "Barranquilla",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "nypakun",
+        "url": "https://linkedin.com/in/nypakun"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "johnny_script",
+        "url": "https://x.com/johnny_script"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "JohnnyScript",
+        "url": "https://github.com/JohnnyScript"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
+      "name": "SST Testing",
+      "position": "Full Stack Developer",
+      "url": "https://twitch.tv/barranquillajs",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "summary": "Developed a geolocated news platform and an API to consume the information. Scaled the services to handle the load of hundreds of thousands of requests per day. Reduced delivery and deployment times to production by half. Collaborated with Mozilla and Telefónica to develop the first app for televisions with FirefoxOS.",
       "highlights": [
         "Started the company"
       ]
@@ -113,77 +92,77 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases", "SQL", "Data Storage", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -215,20 +194,20 @@
       "description": "Interactive story with programming challenges to travel to Mars",
       "highlights": [
         "Choose your own adventure",
-        "In progress"
+        "In development"
       ],
       "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "JavaScript programming challenges for each day of December until Christmas",
       "highlights": [
         "+1 million visits",
-        "Multilanguage",
+        "Multilingual",
         "JavaScript & TypeScript"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://adventjs.dev"
     },
     {
       "name": "Codember",
@@ -243,18 +222,18 @@
     {
       "name": "codi.link",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "HTML, CSS, and JavaScript code playground for sharing",
       "highlights": [
-        "100k monthly visit",
+        "100k monthly visits",
         "Developed by the community"
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Technical Tests",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "List of technical tests from companies to practice programming",
       "highlights": [
         "100% free",
         "+500 community solutions"
@@ -266,7 +245,7 @@
       "name": "miduConf",
       "description": "Streaming programming conference for the Spanish-speaking community with top talks",
       "highlights": [
-        "+15k tickets handed over",
+        "+15k distributed tickets",
         "+50k live viewers"
       ],
       "url": "https://miduconf.com"
